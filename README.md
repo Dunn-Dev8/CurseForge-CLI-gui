@@ -4,6 +4,13 @@ This is a forked verson of https://github.com/North-West-Wind/CurseForge-CLI Wri
 ## Dependencies
 [This Section Needs To be added]
 
+#Arch Based Distros
+`Python3 - Installed Already
+`tkinter - Sudo pacman -S tk
+`JDK - sudo pacman -S jre-openjdk-headless jre-openjdk jdk-openjdk openjdk-doc openjdk-src
+
+#Debian Based Distros
+
 ## Installation
 [This Section Needs to be added
 
