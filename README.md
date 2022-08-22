@@ -1,16 +1,16 @@
 # CurseForge CLI With GUI
 This is a forked verson of https://github.com/North-West-Wind/CurseForge-CLI Written in Java & python. Designed for all platform and portable use.
 
-##Dependencies
+## Dependencies
 [This Section Needs To be added]
 
-##Installation
+## Installation
 [This Section Needs to be added
 
-##Gui Instructions
+## Gui Instructions
 [This Section Needs to be added]
 
-####Terminal Functions
+#### Terminal Functions
 
 ### Commands
 - `help` Display commands of the program.
