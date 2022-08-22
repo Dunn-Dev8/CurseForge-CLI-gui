@@ -1,17 +1,16 @@
-# CurseForge CLI
-Written in Java. Designed for all platform and portable use.
-## Usage
-1. Download the "curseforge.zip" at the [release page](https://github.com/North-West-Wind/CurseForge-CLI/releases/latest).
-2. Extract it to your desire location.
-3. Open a terminal in the extracted folder.
-4. If you're using Linux, make the "curseforge" file executable. There are 2 approaches:
-    - GUI: Open your file manager, right-click the file and get into "Properties", search and check "Executable" (or similar options).
-    - CLI: Run `chmod +x <path>`, where "path" is the path to the "curseforge" bash script.
-5. Run `./curseforge` in the terminal you opened to start it.
-6. (Optional) Put the path where you extracted the program to the PATH variable. That way you can run `curseforge` directly from terminal without `cd`-ing to there first.
+# CurseForge CLI With GUI
+This is a forked verson of https://github.com/North-West-Wind/CurseForge-CLI Written in Java & python. Designed for all platform and portable use.
 
-If you want to use the "curseforge-cli.jar" file directly, follow step 2 and 3 above, and then do the following:
-- Run `java -jar curseforge-cli.jar --args` and put your arguments after `--args`.
+##Dependencies
+[This Section Needs To be added]
+
+##Installation
+[This Section Needs to be added
+
+##Gui Instructions
+[This Section Needs to be added]
+
+####Terminal Functions
 
 ### Commands
 - `help` Display commands of the program.
@@ -52,9 +51,6 @@ When you run the CLI, you should see a new file called `cf.json`. It is essentia
 You will find modpack/mod name with some numbers after it. That is totally intentional. Do not attempt to remove it. It is used for recognition.
 
 Installing a modpack will also generate a profile. However, the profile doesn't use the correct mod loader. Please install the mod loader yourself as instructed.
-
-## Support
-If you want to support me, please consider becoming [my Patron](https://www.patreon.com/nww).
 
 ## License
 GNU GPLv3
