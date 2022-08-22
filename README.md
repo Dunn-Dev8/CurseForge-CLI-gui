@@ -2,7 +2,7 @@
 This is a forked verson of https://github.com/North-West-Wind/CurseForge-CLI Written in Java & python. Designed for all platform and portable use.
 
 ## Dependencies
-[This Section Needs To be added]
+[This Section Needs Changes]
 
 ## Arch Based Distros
 - `Python3 - Installed Already
